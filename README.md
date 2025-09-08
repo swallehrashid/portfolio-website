@@ -46,12 +46,13 @@ It highlights:
 
 ## 📂 Project Structure
 ```bash
-portfolio/
+portfolio-website/
 ├── index.html        # Home page
 ├── about.html        # About page
 ├── projects.html     # Projects page
 ├── contact.html      # Contact page
 ├── style.css         # Stylesheet
+├── index.js          # Javascript file
 └── README.md         # Documentation
 
 ---
