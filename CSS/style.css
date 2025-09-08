@@ -248,3 +248,18 @@
     transform: translateY(-20%);
     transform: translateX(-50%);
 }
+
+.about-me-section {
+    padding: 50px 20px;
+    height: 80%;
+    background-color: #201D27;
+    color: white;
+}
+    
+.about-image-col {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQv5DqnOZDOLPT-rGRnqw6ye4LBx3P8LYfQA&s');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    border-radius: 20px;
+}
