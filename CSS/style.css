@@ -305,3 +305,23 @@
     text-align: center;
     margin-top: 20px;
 }
+
+.projects-hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMbLavFiq7-9VYv32SH98MpXgAyCP_P36UQ&s');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    color: white;
+}
+
+.projects-header-content {
+    width: 60%;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    border-radius: 40px;
+    top: 20%;
+    left: 50%;
+    transform: translateY(-20%);
+    transform: translateX(-50%);
+}
