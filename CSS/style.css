@@ -228,3 +228,23 @@
     text-align: center;
     
 }
+
+.about-hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvD1mNA26irmGlsMr43RlJYkwSDI0lC4anw&s');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    color: white;
+}
+
+.about-header-content {
+    width: 60%;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    border-radius: 40px;
+    top: 20%;
+    left: 50%;
+    transform: translateY(-20%);
+    transform: translateX(-50%);
+}
