@@ -356,3 +356,18 @@
     transform: translateY(-20%);
     transform: translateX(-50%);
 }
+
+.contact-section {
+    padding: 50px 20px;
+    height: 80%;
+    background-color: papayawhip;
+    color: white;
+}
+    
+.contact-image-col {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqo5kdsMdNHehqiktHqqNPzn054PphzEDxOg&s');
+    background-size: cover;
+    background-position: top left;
+    height: 60vh;
+    border-radius: 20px;
+}
