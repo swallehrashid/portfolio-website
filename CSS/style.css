@@ -1,3 +1,5 @@
+/* general styles  */
+
 * {
     margin: 0;
     padding: 0;
@@ -5,6 +7,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* styling navbar and hero section  */
 .nav-bar {
     display: flex;
     justify-content: space-between;
@@ -96,6 +99,7 @@
     transform: translateX(-50%);
 }
 
+/* styling about and projects section */
 .about-section {
     padding: 50px 20px;
     height: 80vh;
@@ -161,6 +165,7 @@
     margin-top: 20px;
 }
 
+/* styling call to action and footer section */
 .call-to-action-section {
     padding: 50px 20px;
     background: linear-gradient(to bottom left, #201D27, #ffffff98, #201D27);
@@ -229,6 +234,7 @@
     
 }
 
+/* styling about projects and contact section */
 .about-hero-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvD1mNA26irmGlsMr43RlJYkwSDI0lC4anw&s');
     background-size: cover;

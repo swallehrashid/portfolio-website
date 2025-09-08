@@ -1,4 +1,5 @@
 // JS/index.js
+// adds event listeners to buttons for navigation
 
   document.getElementById("nav-bar-btn").addEventListener("click", function() {
       window.location.href = "contact.html";  
